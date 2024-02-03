@@ -1,6 +1,7 @@
 // Navbar.js
 import React from 'react';
 
+
 const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbarcolor">
@@ -22,7 +23,7 @@ const Navbar = () => {
             <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav mx-auto">
                     <li className="nav-item">
-                        <a href = "#"className="nav-a" to="/about">
+                        <a href = "#" className="nav-a" to="/about">
                             Home
                         </a>
                     </li>
