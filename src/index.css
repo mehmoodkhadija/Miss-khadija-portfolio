@@ -53,7 +53,7 @@ a{
   color: white;
   border-radius: 50px;
 }
-@media (min-width:576px) {
+@media (min-width:786px) {
   .navbar-expand-sm {
       flex-wrap: nowrap;
       justify-content: flex-start
