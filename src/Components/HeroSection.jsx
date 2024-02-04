@@ -8,7 +8,7 @@ const HeroSection = () => {
   return (
     <div className='center'>
   
-     <div className='container hero-main'>
+     <div className='container hero-main mt-5'>
         <img src={Portfolio} />
      <p>Welcome To My Portfolio!</p>
      <h1>Hi, I'm Khadija Mehmood</h1>

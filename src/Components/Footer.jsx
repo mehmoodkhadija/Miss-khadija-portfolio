@@ -69,9 +69,10 @@ const Footer = () => {
               <div className="single-footer-widget" data-aos="fade-in" data-aos-duration={1200} data-aos-delay={400}>
                 <h3>Get in Touch</h3>
                 <ul className="get-in-touch">
-                  <li><i class="fa-solid fa-location-dot"></i><span>2750 Quadra Street Punjab, Pakistan.</span></li>
+                  <li><i class="fa-solid fa-location-dot"></i><span>City chiniot District Lalian </span></li>
 
-                  <li><i class="fa-solid fa-headset"></i><span>+923497333036</span><br /><span>+923488320805</span></li>
+                  <li><i class="fa-solid fa-headset"></i><span>+923497333036</span></li>
+              
                   <li><i class="fa-regular fa-envelope">
 
                   </i><span>mehmoodkhadija524@gmail.com</span>
@@ -84,8 +85,8 @@ const Footer = () => {
         </div>
         <div className="copyright-area">
           <div className="container">
-            <p>Copyright © 2023 Pungent. All Rights Reserved By khadija
-              <a href="#" target="_blank" style={{ marginLeft: "4px" }}></a></p>
+            <a href="#" target="_blank" style={{ marginLeft: "4px" }}>            <p>Copyright © 2023 Pungent. All Rights Reserved By khadija</p>
+</a>
           </div>
         </div>
       </footer>

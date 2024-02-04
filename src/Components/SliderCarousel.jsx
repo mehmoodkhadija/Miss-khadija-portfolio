@@ -29,7 +29,7 @@ const SliderCarousel = () => {
   ];
 
   return (
-    <div className='slider-bg'>
+    <div className='slider-bg mt-5'>
       <Carousel>
         {slider.map((slide, index) => (
           <Carousel.Item key={index}>
